@@ -139,6 +139,11 @@
         justify-content: center;
     }
     
+    iframe {
+        width: 33%;
+        height: auto;
+    }
+    
     footer {
         width: 100%;
         background-color: var(--grey-font);
@@ -208,5 +213,17 @@
         }
         .sub-p {
             font-size: 1rem;
+        }
+        .thid-section--video,
+        iframe {
+            width: 100%;
+        }
+        .thid-section--video {
+            width: 100%;
+            justify-content: center;
+            height: auto;
+        }
+        .third-sction {
+            width: 100%;
         }
     }
