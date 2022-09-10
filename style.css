@@ -136,6 +136,7 @@
     .thid-section--video {
         gap: 1em;
         padding-bottom: 3em;
+        justify-content: center;
     }
     
     footer {
@@ -193,9 +194,6 @@
         }
         .third-sction {
             margin: 0 auto;
-        }
-        iframe {
-            width: 350px;
         }
         footer,
         form {
