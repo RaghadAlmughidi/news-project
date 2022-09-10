@@ -177,6 +177,9 @@
             margin: 0 auto;
             padding: 0 2em;
         }
+        .nav-item {
+            text-align: center;
+        }
         .flex {
             flex-direction: column;
         }
