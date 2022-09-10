@@ -140,7 +140,7 @@
     }
     
     iframe {
-        width: 33%;
+        width: 30%;
         height: auto;
     }
     
@@ -220,7 +220,6 @@
         }
         .thid-section--video {
             width: 100%;
-            justify-content: center;
             height: auto;
         }
         .third-sction {
