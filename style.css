@@ -95,7 +95,6 @@
     
     .second-section {
         width: 100%;
-        transform: translate(0, -3em);
         gap: 1em;
     }
     
@@ -111,8 +110,14 @@
     .second-ssection--right {
         width: 30%;
         padding: .5em;
+        background-color: var(--grey-font);
     }
     
     .second-ssection--right img {
         width: 100%;
+        margin: .5em 0;
+    }
+    
+    .white {
+        color: var(--white);
     }
