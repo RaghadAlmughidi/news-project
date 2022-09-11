@@ -17,6 +17,7 @@
         font-family: 'Lora', serif;
         width: 80%;
         margin: 0 auto;
+        background-color: #ebebed;
     }
     
     .sub-heading-p {
@@ -100,6 +101,7 @@
     
     .second-section--left {
         width: 70%;
+        border-radius: none;
     }
     
     .second-section--left p {
@@ -108,7 +110,7 @@
     
     .second-section--left img {
         width: 50%;
-        padding: 0 1em .5em 0;
+        padding: 0 3em .5em 0;
         margin-top: .5em;
     }
     
